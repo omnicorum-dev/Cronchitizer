@@ -1,0 +1,64 @@
+{
+  "Name": "AM_Sidechain",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "Omnicorum",
+    "URL": "www.Omnicorum.com",
+    "E-Mail": "omnicorum@gmail.com",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB4F4D4E49616D7363",
+      "Category": "Audio Module Class",
+      "Name": "OMNI Cronchitizer",
+      "Vendor": "Omnicorum",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+        "Dynamics",
+        "Stereo",
+        "Tools",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD4F4D4E49616D7363",
+      "Category": "Component Controller Class",
+      "Name": "OMNI Cronchitizer",
+      "Vendor": "Omnicorum",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+        "Dynamics",
+        "Stereo",
+        "Tools",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF01C0DEF00D4F4D4E49616D7363",
+      "Category": "Plugin Compatibility Class",
+      "Name": "OMNI Cronchitizer",
+      "Vendor": "Omnicorum",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
